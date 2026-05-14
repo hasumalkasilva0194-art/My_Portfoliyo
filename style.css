@@ -995,3 +995,6 @@ section {
 .uiux-btn:hover {
     transform: translateY(-4px);
 }
+.automation .project-year {
+    color: #06b6d4;
+}
